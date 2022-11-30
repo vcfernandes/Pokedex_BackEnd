@@ -14,4 +14,8 @@ A rota post, usada para adicionar novos Pokémons ao nosso banco de dados.
 A rota patch, que pode ser usada para atualizar as informações de nossos Pokémons.
 E a rota delete, que removerá o Pokémon do nosso banco de dados.
 
+RODAR NO PC: 
 
+1 - instalar o yarn
+
+2 - usar yarn start
